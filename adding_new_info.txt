@@ -1,0 +1,11 @@
+what is up ladies an gentleman
+This is new added information for my git hub try out
+I will record some command here!!!
+
+Git bash commands
+
+vim example.txt - This will allow us to edit files
+
+git clone example_git_repo.git
+
+
