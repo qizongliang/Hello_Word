@@ -8,4 +8,12 @@ vim example.txt - This will allow us to edit files
 
 git clone example_git_repo.git
 
+git status
 
+git add filename.txt
+
+git add -A  <--Add all the newfiles
+
+git commit -m "Commit message"
+
+git push -u origin example_repo_name
